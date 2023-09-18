@@ -1,0 +1,137 @@
+body {
+    background-color: #101113;
+    color: #ffffff !important;
+}
+
+a {
+    color: #ffffff;
+  }
+
+  a:hover {
+    color: #ffffff;
+  }
+
+  nav {
+    background-color: #1E1E1E;
+  }
+
+  #header {
+    background-color: #1E1E1E;
+  }
+
+  nav div.vr {
+    background-color: #ffffff;
+  }
+
+  .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: #ffffff;
+  }
+
+  nav .btn-primary {
+    background-color: #ffffff;
+    border-color: #ffffff;
+    color: #101113;
+  }
+
+  .navbar-light .navbar-brand {
+    color: #ffffff;
+}
+
+#navbarNav ul li a {
+    color: #d3d3d3c9
+}
+
+#navbarNav ul li.active a {
+    color: #ffffff
+}
+
+
+  nav .btn-primary:hover {
+    background-color: #ffffff;
+    border-color: #ffffff;
+    color: #101113;
+  }
+
+  nav .btn:focus, .btn:active, .btn::after {
+    background-color: #ffffff;
+    color: #101113;
+  }
+  
+
+  #hero {
+    background-color: #151619;
+  }
+
+  #hero h1 {
+    font-weight: 72px;
+    font-weight: 700;
+    color: #ffffff;
+  }
+
+  #hero p {
+    color: #ffffff;
+  }
+
+  #tools p {
+    color: #ffffff;
+  }
+
+  #tools .box {
+    background-color: #1E1E1E;
+    box-shadow: 0px 0px 0px rgba(255, 255, 255, 0.1);
+  }
+
+  #services .active {
+    background-color: #1E1E1E;
+    box-shadow: 0px 0px 0px rgba(255, 255, 255, 0.1);
+  }
+
+  #services .servie .text h3 {
+    color: #ffffff;
+}
+
+
+#services .servie .text p {
+    color: #ffffff;
+    padding-top: 10px;
+  }
+
+  #portfolio .port {
+    color: #ffffff;
+    background-color: #1E1E1E;
+    box-shadow: 0px 0px 0px rgba(255, 255, 255, 0.1);
+  }
+
+  #contact {
+    margin: 0 auto;
+    margin-top: 65px;
+    color: #ffffff;
+    background-color: #151619;  }
+  
+    #contact input {
+        color: #ffffff;
+      }
+      
+      button:active {
+        border: 2px solid #ffffff;
+        border-radius: 8px;
+      }
+
+    footer {
+        color: #ffffff;
+      }
+      .navbar-light .navbar-toggler {
+        background-color: #ffffff;
+
+      }
+      
+@media (max-width: 991px) {
+    #header {
+      background: #1E1E1E;
+    }
+    #header nav {
+      background: #1E1E1E;
+    }
+
+  }
+  

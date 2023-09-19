@@ -1,0 +1,22 @@
+<svg width="85" height="85" viewBox="0 0 85 85" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.77">
+<circle cx="42.185" cy="42.185" r="42.185" transform="matrix(1 0 0 -1 0 84.37)" fill="url(#paint0_linear_73_197)" fill-opacity="0.2"/>
+<circle cx="42.185" cy="42.185" r="41.6392" transform="matrix(1 0 0 -1 0 84.37)" stroke="url(#paint1_linear_73_197)" stroke-opacity="0.2" stroke-width="1.0916"/>
+</g>
+<ellipse cx="41.9341" cy="42.305" rx="35.9341" ry="35.935" fill="#83828A" fill-opacity="0.2"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.7859 42C42.7859 38.8934 45.409 36.375 48.6447 36.375C51.8805 36.375 54.5035 38.8934 54.5035 42C54.5035 45.1066 51.8805 47.625 48.6447 47.625C45.409 47.625 42.7859 45.1066 42.7859 42Z" fill="#1ABCFE"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.0682 53.25C31.0682 50.1434 33.6913 47.625 36.9271 47.625H42.7859V53.25C42.7859 56.3566 40.1628 58.875 36.9271 58.875C33.6913 58.875 31.0682 56.3566 31.0682 53.25Z" fill="#0ACF83"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.7859 25.125V36.375H48.6447C51.8805 36.375 54.5035 33.8566 54.5035 30.75C54.5035 27.6434 51.8805 25.125 48.6447 25.125H42.7859Z" fill="#FF7262"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.0682 30.75C31.0682 33.8566 33.6913 36.375 36.9271 36.375H42.7859V25.125H36.9271C33.6913 25.125 31.0682 27.6434 31.0682 30.75Z" fill="#F24E1E"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.0682 42C31.0682 45.1066 33.6913 47.625 36.9271 47.625H42.7859V36.375H36.9271C33.6913 36.375 31.0682 38.8934 31.0682 42Z" fill="#A259FF"/>
+<defs>
+<linearGradient id="paint0_linear_73_197" x1="42.185" y1="0" x2="42.185" y2="84.37" gradientUnits="userSpaceOnUse">
+<stop stop-color="#83828A"/>
+<stop offset="1" stop-color="#83828A" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_73_197" x1="37.9987" y1="-32.8463" x2="51.7093" y2="53.8641" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0"/>
+<stop offset="1" stop-color="#1D172B"/>
+</linearGradient>
+</defs>
+</svg>

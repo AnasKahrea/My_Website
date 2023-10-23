@@ -1,5 +1,5 @@
 body {
-    background-color: #101113;
+    background-color: #030712;
     color: #ffffff !important;
 }
 
@@ -12,11 +12,11 @@ a {
   }
 
   nav {
-    background-color: #1E1E1E;
+    background-color: #030712;
   }
 
   #header {
-    background-color: #1E1E1E;
+    background-color: #030712;
   }
 
   nav div.vr {
@@ -59,7 +59,7 @@ a {
   
 
   #hero {
-    background-color: #151619;
+    background-color: #030712;
   }
 
   #hero h1 {
@@ -77,17 +77,18 @@ a {
   }
 
   #tools .box {
-    background-color: #1E1E1E;
-    box-shadow: 0px 0px 0px rgba(255, 255, 255, 0.1);
+    background-color: #1F2937;
   }
 
   #services .active {
-    background-color: #1E1E1E;
-    box-shadow: 0px 0px 0px rgba(255, 255, 255, 0.1);
+    background-color: #1F2937;
   }
 
   #services .servie .text h3 {
     color: #ffffff;
+}
+#services .servie {
+  background-color: #1F2937;
 }
 
 
@@ -106,7 +107,7 @@ a {
     margin: 0 auto;
     margin-top: 65px;
     color: #ffffff;
-    background-color: #151619;  }
+    background-color: #030712;  }
   
     #contact input {
         color: #ffffff;
